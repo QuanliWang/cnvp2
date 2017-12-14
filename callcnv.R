@@ -1,9 +1,9 @@
-library(CNVPanelizer)
+library(cnvp2)
 #prepare_reference.R
 load("ref.RData")
 
 # Directory with the test data
-sampleDirectory <- "/Users/quanliwang/Desktop/CNVtest/cnv"
+sampleDirectory <- "/Users/quanliwang/Desktop/CNVtest/newsample"
 # Vector with test filenames
 sampleFilenames <- list.files(path = sampleDirectory, pattern = ".bam$",
                               full.names = TRUE)

@@ -1,4 +1,4 @@
-Package: CNVPanelizer
+Package: cnvp2
 Type: Package
 Title: Reliable CNV detection in targeted sequencing applications
 Version: 1.5.2
@@ -45,3 +45,4 @@ LazyData: false
 biocViews: Classification, Sequencing, Normalization, CopyNumberVariation, Coverage
 VignetteBuilder: knitr
 NeedsCompilation: no
+RoxygenNote: 6.0.1
