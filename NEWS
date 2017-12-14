@@ -1,0 +1,67 @@
+
+CHANGES IN VERSION 1.5.1 
+-----------------------
+
+  o Add wrapper function for the overall workflow steps
+
+  o Add Fix for inconsistencies
+
+
+CHANGES IN VERSION 0.99.12
+-----------------------
+
+  o Add robust as option to calculate Background calculation,
+    then replacing mean with median and sd with mad
+
+
+CHANGES IN VERSION 0.99.11
+-----------------------
+
+	o Calculate statistics base on ratio log transformation
+
+
+CHANGES IN VERSION 0.99.10
+-----------------------
+
+	o Fix plotting and single sample bugs
+
+
+CHANGES IN VERSION 0.99.9
+-----------------------
+
+	o Add fix for inconsistencies
+
+	o Remove CheckSignificance documentation for function not available
+	o Fix for vignette plot inconsistency bootstrap count
+	o Increment version number
+
+
+CHANGES IN VERSION 0.99.8
+-----------------------
+
+	o Small fix for bioconductor submission
+
+
+CHANGES IN VERSION 0.99.7
+-----------------------
+
+        o Specificity improvements
+
+BUG FIXES
+
+        o Improve code Styling
+        o Add documentation
+
+
+CHANGES IN VERSION 0.99.6
+-----------------------
+
+	o Initial Bioconductor release
+
+BUG FIXES
+
+        o Add required imports at NAMESPACE
+	o Improve code Styling
+	o Add documentation
+	o Remove unnecessary files
+
