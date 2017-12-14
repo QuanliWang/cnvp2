@@ -1,6 +1,6 @@
 library(CNVPanelizer)
 #prepare_reference.R
-load("last.RData")
+load("ref.RData")
 
 # Directory with the test data
 sampleDirectory <- "/Users/quanliwang/Desktop/CNVtest/cnv"
