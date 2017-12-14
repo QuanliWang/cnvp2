@@ -1,6 +1,6 @@
 library(cnvp2)
 #prepare_reference.R
-load("ref.RData")
+load("../ref.RData")
 
 # Directory with the test data
 sampleDirectory <- "/Users/quanliwang/Desktop/CNVtest/newsample"
